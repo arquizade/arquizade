@@ -8,7 +8,7 @@
 #### :computer: Environment
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="24" title="windows"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="24" /></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="24" title="nginx"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="24" title="apache"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="24" title="mysql"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="24" title="docker"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="24" title="vscode"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" height="24" title="composer"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" height="24" title="phpstorm"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="24" title="git"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="24" title="bash"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="24" title="bitbucket"/></code> <code><img src="https://www.svgrepo.com/show/312259/github.svg" height="26" title="github"/></code> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="24" title="gitlab"/></code>
 <hr />
-<details>	
+<details open>	
   <summary><b>💡 About Me </b></summary>
   
 ```php
@@ -50,7 +50,7 @@ class AboutMe extends Profile
 }
 ```
 </details>	
-<details>	
+<details open>	
   <summary><b>⚡ Github Stats </b></summary>
   <br />
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arquizade&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
