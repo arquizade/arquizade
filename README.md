@@ -1,6 +1,7 @@
-
+<!--
 ![](https://docs.google.com/drawings/d/e/2PACX-1vSXhhNr2fqXu-0T1eJyolvhBlXflK19WrvQ7CPE0fnxnDvJMwF1AF7hVcAxQhbdlqz7b-_KMc5XJ0TG/pub?w=1440&h=720)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arquizade.arquizade)
+-->
 
 #### :gem: Languages
 ![php](https://img.shields.io/badge/-php-000?&logo=Php) ![codeigniter](https://img.shields.io/badge/-codeigniter-000?&logo=codeigniter) ![laravel](https://img.shields.io/badge/-laravel-000?&logo=Laravel) ![symfony](https://img.shields.io/badge/-symfony-000?&logo=symfony) ![javascript](https://img.shields.io/badge/-javascript-000?&logo=javascript) ![jquery](https://img.shields.io/badge/-jquery-000?&logo=jquery) ![css3](https://img.shields.io/badge/-css3-000?&logo=css3) ![html5](https://img.shields.io/badge/-html5-000?&logo=html5) ![bootstrap](https://img.shields.io/badge/-bootstrap-000?&logo=bootstrap) ![sass](https://img.shields.io/badge/-sass-000?&logo=sass)
